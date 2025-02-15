@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm passionate about security automation and love 
 - 🔭 I’m currently working on exciting projects that I will share with you all soon.
 - 🌱 I’m currently learning advanced security automation techniques.
 - 💬 Ask me about Ansible, Terraform, Python, and Bash.
-- 📫 How to reach me: [walid.riani@example.com](mailto:walid.riani@example.com)
+- 📫 How to reach me: [walid.riani@live.nl](mailto:walid.riani@example.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love fitness, running, cooking, and I'm a huge football enthusiast.
 
