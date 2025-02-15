@@ -25,7 +25,7 @@ Stay tuned for some exciting projects that I will be sharing publicly soon.
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/walid-riani-09a7b1131/)
 - [Twitter](https://twitter.com/yourusername)
 - [Personal Website](https://yourwebsite.com)
 
