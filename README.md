@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm passionate about security automation and love 
 
 ## 🛠️ My Skills
 
-- **Languages:** Python, Bash
-- **Frameworks:** Ansible, Terraform
+- **Programming Languages:** Python, Bash
+- **Tools & Technologies:** Ansible, Terraform
 - **Operating Systems:** Rocky Linux, Ubuntu, Arch Linux, Kali Linux
 
 ## 🚀 My Projects
